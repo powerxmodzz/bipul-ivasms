@@ -13,8 +13,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(
 log = logging.getLogger(__name__)
 
 # ────────── CONFIG ──────────
-USERNAME         = os.getenv("IVASMS_USER", "rehmanaliofficial444@gmail.com")
-PASSWORD         = os.getenv("IVASMS_PASS", "456456456")
+USERNAME         = os.getenv("IVASMS_USER", "powerxdeveloper@gmail.com")
+PASSWORD         = os.getenv("IVASMS_PASS", "Khang1.com")
 TELEGRAM_TOKEN   = os.getenv("TG_TOKEN",    "7996277191:AAF8wE9TCrOsiGn_8Il-cCzJi3pEFuhhiCk")
 TELEGRAM_CHAT_ID = os.getenv("TG_CHAT_ID",  "-1003794052607")
 
