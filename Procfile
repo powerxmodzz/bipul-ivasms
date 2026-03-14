@@ -1,1 +1,1 @@
-worker: python ivasms_final.py
+worker: python main.py
