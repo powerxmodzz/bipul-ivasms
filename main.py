@@ -20,7 +20,7 @@ log = logging.getLogger(__name__)
 
 # ────────── CONFIG ──────────
 USERNAME         = os.getenv("IVASMS_USER", "powerxdeveloper@gmail.com")
-PASSWORD         = os.getenv("IVASMS_PASS", "Khang1.com")
+PASSWORD         = os.getenv("IVASMS_PASS", "powerxtreamm")
 TELEGRAM_TOKEN   = os.getenv("TG_TOKEN",    "8784790380:AAGX5vI90BLUnSGATdhzVuH9YeBqBGEveWs")
 TELEGRAM_CHAT_ID = os.getenv("TG_CHAT_ID",  "-1003886766454")
 DATABASE_URL     = os.getenv("DATABASE_URL", "")
